@@ -3,7 +3,37 @@ guid: 4536bb50b1c4c3c299f4d48d8f52e3b4
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GROUND_PlaneMat
+    second: {fileID: 2100000, guid: 917766e31131912f7a55e959d953eebd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kashtan_Cube.004Mat
+    second: {fileID: 2100000, guid: f57c889a45d87538e845a3ee0025ac71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SHROOM1_Cube.007Mat
+    second: {fileID: 2100000, guid: ed4dd11cabb8186fa9ed48e10a5afd83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shroom2_Cube.013Mat
+    second: {fileID: 2100000, guid: 6679c2a9b4658d524b4f9f12e26a0b18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: buSH_Cube.020Mat
+    second: {fileID: 2100000, guid: ce14532b8b0e050edad4ed6ab2816205, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: firesparkle_Cube.046Mat
+    second: {fileID: 2100000, guid: 4f46cf265914e6d5ca321e50a355b6dd, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
